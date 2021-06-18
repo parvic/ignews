@@ -20,8 +20,6 @@ export default function Home({ product }: HomeProps) {
         <title>Home | ig.news</title>
       </Head>
 
-      <Header />
-
       <main className={styles.homeContainer}>
         <section className={styles.homeContent}>
           <span>Hey, welcome</span>
